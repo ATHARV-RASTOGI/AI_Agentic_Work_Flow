@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "ChatGroq":"./openai_agent.py:agent"
+    },
+    "env":"../.env"
+}
