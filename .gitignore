@@ -1,3 +1,5 @@
 /venv
 .env
-LangGraph_basics/python_practice
+*.env
+.env.local
+.env.*.local
