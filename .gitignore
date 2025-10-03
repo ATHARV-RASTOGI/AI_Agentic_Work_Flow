@@ -3,3 +3,5 @@
 *.env
 .env.local
 .env.*.local"langchain/vectorstore/chroma_db/" 
+"langchain/vectorstore/chroma_db/" 
+"langchain/vectorstore/chroma_db/" 
